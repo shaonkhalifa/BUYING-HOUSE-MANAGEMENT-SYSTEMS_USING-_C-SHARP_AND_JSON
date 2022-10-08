@@ -1,0 +1,30 @@
+﻿<Window x:Class="Buying_House_Management_StoreApp_Project.Viewdata"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Buying_House_Management_StoreApp_Project"
+        mc:Ignorable="d"
+        Title="Viewdata" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="448" VerticalAlignment="Top" Width="793">
+            <Canvas.Background>
+                <SolidColorBrush Color="#FF0EEDED" Opacity="0.3"/>
+            </Canvas.Background>
+            <Button x:Name="Back" Content="" Width="49" FontWeight="Bold" FontSize="16" Foreground="#FFFEFEFE" Height="41" Canvas.Top="10" Canvas.Left="10" BorderBrush="{x:Null}" Click="Back_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/Blue Back aro.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="Close" Content="" Width="52" FontWeight="Bold" FontSize="16" Foreground="#FFFEFEFE" Height="51" Canvas.Left="729" BorderBrush="{x:Null}" Click="Close_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/Close Button Red 1.png"/>
+                </Button.Background>
+            </Button>
+            <TextBlock x:Name="txttest" Canvas.Left="102" TextWrapping="Wrap" Canvas.Top="169" Height="223" Width="325"/>
+            <Image x:Name="imagedata" Height="151" Canvas.Left="512" Canvas.Top="169" Width="194"/>
+            <TextBlock Canvas.Left="148" TextWrapping="Wrap" Text="Buyer Information" Canvas.Top="102" FontSize="22" Height="44" Width="201" FontWeight="Bold" Foreground="Black"/>
+            <TextBlock Canvas.Left="541" TextWrapping="Wrap" Text="Buyer Image" Canvas.Top="102" FontSize="22" Height="44" Width="133" FontWeight="Bold" Foreground="Black"/>
+        </Canvas>
+    </Grid>
+</Window>

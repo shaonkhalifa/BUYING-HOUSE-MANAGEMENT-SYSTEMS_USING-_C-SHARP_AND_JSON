@@ -1,0 +1,52 @@
+﻿<Window x:Class="Buying_House_Management_StoreApp_Project.Edit_Information"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Buying_House_Management_StoreApp_Project"
+        mc:Ignorable="d"
+        Title="Edit_Information" Height="500" Width="800" ResizeMode="NoResize" WindowStyle="None"  WindowStartupLocation="CenterScreen"  Topmost="False"  ShowInTaskbar="False">
+
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="500" VerticalAlignment="Top" Width="800" >
+            <Canvas.Background>
+                <ImageBrush ImageSource="Images/images.jpg" Opacity="0.5"/>
+            </Canvas.Background>
+            <TextBlock TextWrapping="Wrap" Text="Buyer Information" FontWeight="Bold" FontFamily="Microsoft Sans Serif" FontSize="24" RenderTransformOrigin="0.638,0.478" Height="29" Canvas.Left="311" Canvas.Top="25" Width="224"/>
+            <TextBox x:Name="txtID" Height="23" TextWrapping="Wrap" FontSize="16" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Canvas.Left="214" Canvas.Top="83" Width="134"/>
+            <TextBlock TextWrapping="Wrap" Text="Title               :" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="72" Canvas.Top="132" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="Gender          :" FontSize="20" Foreground="Black" FontWeight="Bold" RenderTransformOrigin="0.285,10.43" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="75" Canvas.Top="283" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="ID                   :" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="72" Canvas.Top="83" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="First Name    :" RenderTransformOrigin="0.401,0.564" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="71" Canvas.Top="181" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="Last Name     :" RenderTransformOrigin="0.622,0.543" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="71" Canvas.Top="231" Width="136"/>
+            <TextBlock TextWrapping="Wrap" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="492" Canvas.Top="181" Width="136"><Run Text="Country        :"/></TextBlock>
+            <TextBox x:Name="txtDesignation" Height="23" TextWrapping="Wrap" FontSize="16" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Canvas.Left="636" Canvas.Top="83" Width="136"/>
+            <TextBox x:Name="txtFirstName" Height="23" TextWrapping="Wrap" FontSize="16" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Canvas.Left="214" Canvas.Top="181" Width="134"/>
+            <TextBox x:Name="txtLastName" Height="23" TextWrapping="Wrap" FontSize="16" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Canvas.Left="214" Canvas.Top="231" Width="134"/>
+            <TextBlock TextWrapping="Wrap" Text="Email              :" RenderTransformOrigin="0.467,0.606" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="70" Canvas.Top="390" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="Company      :" RenderTransformOrigin="0.609,0.313" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="493" Canvas.Top="132" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="Designation  :" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="493" Canvas.Top="83" Width="136"/>
+            <TextBox x:Name="txt_Country" Height="23" TextWrapping="Wrap" FontSize="16" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Canvas.Left="636" Canvas.Top="181" Width="136"/>
+            <TextBlock TextWrapping="Wrap" Text="Phone            :" RenderTransformOrigin="0.372,0.75" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="73" Canvas.Top="335" Width="136"/>
+            <ComboBox x:Name="Cmb_Title" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="214.167" Canvas.Top="132" Width="133"/>
+            <TextBox x:Name="txtPhone" Height="23" TextWrapping="Wrap" FontSize="16" MinWidth="60" MinHeight="40" Canvas.Left="214" Canvas.Top="335" Width="134"/>
+            <TextBox x:Name="txtEmail" Height="23" TextWrapping="Wrap" FontSize="16" MinWidth="60" MinHeight="40" Canvas.Left="212" Canvas.Top="390" Width="136"/>
+            <TextBox x:Name="txtcompany" Height="23" TextWrapping="Wrap" FontSize="16" MinWidth="60" MinHeight="40" Canvas.Left="636" Canvas.Top="132" Width="136"/>
+            <Button x:Name="btnUpdate" Content="Update" FontWeight="Bold" FontSize="16" Background="#FFF72508" Foreground="#FFFEFEFE" BorderBrush="{x:Null}" Click="btnUpdate_Click" Height="36" Canvas.Left="656" Canvas.Top="406" Width="91"/>
+            <Button x:Name="Close" Content="" FontWeight="Bold" FontSize="16" Foreground="#FFFEFEFE" BorderBrush="{x:Null}" Click="Close_Click" Height="54" Canvas.Left="713" Width="70">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/Close Button Red 1.png"/>
+                </Button.Background>
+            </Button>
+            <ComboBox x:Name="Cmb_Gender" MinWidth="60" MinHeight="40" Height="41" Canvas.Left="212" Canvas.Top="282.167" Width="135"/>
+            <Button x:Name="btnUpload" Content="Upload" FontWeight="Bold" FontSize="16" Background="#FF08F7F0" Foreground="#FFFEFEFE" BorderBrush="{x:Null}" Click="btnUpload_Click" Height="43" Canvas.Left="636" Canvas.Top="234.667" Width="135"/>
+            <TextBlock TextWrapping="Wrap" Text="Image            :" RenderTransformOrigin="0.372,0.75" FontSize="20" Foreground="Black" FontWeight="Bold" MinWidth="60" MinHeight="40" Height="40" Canvas.Left="493" Canvas.Top="238" Width="136"/>
+            <Image x:Name="ImageShow" Height="114" Canvas.Left="636" Canvas.Top="282.667" Width="135"/>
+            <Button x:Name="Back" Content="" Width="60" FontWeight="Bold" FontSize="16" Foreground="#FFFEFEFE" Height="46" Canvas.Top="8" Canvas.Left="12" BorderBrush="{x:Null}" Click="Back_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="Images/Blue Back aro.png"/>
+                </Button.Background>
+            </Button>
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,94 @@
+{
+  "orderInformation": [
+    {
+      "orderId": 1,
+      "productName": "Full Shirt",
+      "productAvailable": false,
+      "orderDate": "2022-08-16T00:00:00",
+      "quantity": 1000,
+      "Unitprice": 100,
+      "TotalPrice": 100000
+    },
+    {
+      "orderId": 3,
+      "productName": "Denim Pant",
+      "productAvailable": false,
+      "orderDate": "2022-08-19T00:00:00",
+      "quantity": 12,
+      "Unitprice": 5,
+      "TotalPrice": 60
+    },
+    {
+      "orderId": 6,
+      "productName": "Denim Pant",
+      "productAvailable": true,
+      "orderDate": "2023-04-20T00:00:00",
+      "quantity": 134,
+      "Unitprice": 2134,
+      "TotalPrice": 285956
+    },
+    {
+      "orderId": 7,
+      "productName": "Baby Product",
+      "productAvailable": true,
+      "orderDate": "2023-03-23T00:00:00",
+      "quantity": 134,
+      "Unitprice": 123,
+      "TotalPrice": 16482
+    },
+    {
+      "orderId": 8,
+      "productName": "T-Shirt",
+      "productAvailable": true,
+      "orderDate": "2022-08-20T00:00:00",
+      "quantity": 234,
+      "Unitprice": 12,
+      "TotalPrice": 2808
+    },
+    {
+      "orderId": 9,
+      "productName": "Half-Shirt",
+      "productAvailable": true,
+      "orderDate": "2022-08-14T00:00:00",
+      "quantity": 234,
+      "Unitprice": 33,
+      "TotalPrice": 7722
+    },
+    {
+      "orderId": 10,
+      "productName": "Denim Pant",
+      "productAvailable": true,
+      "orderDate": "2022-08-22T00:00:00",
+      "quantity": 156,
+      "Unitprice": 288,
+      "TotalPrice": 44928
+    },
+    {
+      "orderId": 11,
+      "productName": "T-Shirt",
+      "productAvailable": true,
+      "orderDate": "2023-01-12T00:00:00",
+      "quantity": 23,
+      "Unitprice": 2345,
+      "TotalPrice": 53935
+    },
+    {
+      "orderId": 2,
+      "productName": "Denim Pant",
+      "productAvailable": true,
+      "orderDate": "2022-08-21T00:00:00",
+      "quantity": 2000,
+      "Unitprice": 100,
+      "TotalPrice": 2402475
+    },
+    {
+      "orderId": 15,
+      "productName": "Full Shirt",
+      "productAvailable": true,
+      "orderDate": "2022-08-14T00:00:00",
+      "quantity": 25,
+      "Unitprice": 25,
+      "TotalPrice": 625
+    }
+  ]
+}

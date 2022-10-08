@@ -1,0 +1,237 @@
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\C#\C# HW\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Project\Raf Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\New folder\raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Raf Project\semi-final\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.g.cs
+E:\Project\Final Project\full work project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.baml
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.g.cs
+E:\Project\Final Project\full Raf\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.baml
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+D:\Msk\Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe.config
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Buying_House_Management_StoreApp_Project.pdb
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.dll
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\bin\Debug\Newtonsoft.Json.xml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.AssemblyReference.cache
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\App.g.cs
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.cache
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project_MarkupCompile.lref
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buyer.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Edit Information.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\EditOrderData.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\MainWindow.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\OrderDetails.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Show.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\ShowOrderInformation.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Viewdata.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\viewOrderData.baml
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.g.resources
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.Properties.Resources.resources
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.GenerateResource.cache
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CoreCompileInputs.cache
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.csproj.CopyComplete
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.exe
+E:\Final Project\ESAD_CS_R51_Project\Buying_House_Management_StoreApp_Project\obj\Debug\Buying_House_Management_StoreApp_Project.pdb
